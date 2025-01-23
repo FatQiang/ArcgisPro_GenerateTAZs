@@ -16,7 +16,7 @@
   Arcgis pro
 # 3 目录结构描述
     ├── Tool/GenerateTAZs.atbx // 工具源文件
-    ├── ReadMe.md              // 帮助文档
+    ├── README.md              // 帮助文档
 # 4 使用说明
 ## 4.1 加载工具
 在Arcgis Pro中加载工具
